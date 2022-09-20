@@ -11,6 +11,7 @@ Hello-Microverse
 
 
 
+
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -37,7 +38,24 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [SabaAhmad786]
+- GitHub:(https://github.com/SabaAhmad786)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
