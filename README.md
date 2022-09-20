@@ -1,6 +1,6 @@
 
 # Project Name
-Hello-microverse
+Hello-Microverse
 
 
 ## Built With
