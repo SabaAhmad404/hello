@@ -5,12 +5,9 @@ In this project I set up the linters and add a html and css file also .gitignore
 
 ## Built With
 
-- Major languages
-   html and css
-- Frameworks
-   visual studio code
-- Technologies used
-   Laptop
+- Major languages used html and css
+- Frameworks used visual studio code
+- Technologies used Laptop
    
    
    
